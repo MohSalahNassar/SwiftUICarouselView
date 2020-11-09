@@ -1,3 +1,3 @@
-# SwiftUI-CarouselView
+# SwiftUICarouselView
 
 A description of this package.
